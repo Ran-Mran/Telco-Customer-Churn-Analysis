@@ -41,20 +41,33 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, stratif
 ---
 
 ## Model Explainability (SHAP)
-![SHAP Result](image_folder/SHAP_Result.png)
+![SHAP Result](Telco_Customer_Churn_Analysis/Image_folder/SHAP_Result.png)
 
-## Exploratory Data Analysis
-![Pairplot](image_folder/pairplot_relationships.png)
+---
 
-## Business Analysis (Excel)
-![Churn by Contract Type](image_folder/pivot_contract_churn.png)
-![Churn by Payment Method](image_folder/pivot_payment_churn.png)
-![Loyalty Segmentation](image_folder/pivot_loyalty_churn.png)
+## Exploratory Data Analysis (Python)
+![Pairplot - Feature Relationships](Telco_Customer_Churn_Analysis/Image_folder/pairplot_relationships.png)
 
-## Tableau Dashboards
-### Dashboard 1 – Overview
-![Dashboard Overview](image_folder/Tableau_Dashboard/Dashboard_OverallOverview.png)
+---
+
+## Business Analysis (Excel Pivot)
+**Churn Analysis by Contract Type**
+![Churn by Contract Type](Telco_Customer_Churn_Analysis/Image_folder/pivot_contract_churn.png)
+
+**Churn Analysis by Payment Method**
+![Churn by Payment Method](Telco_Customer_Churn_Analysis/Image_folder/pivot_payment_churn.png)
+
+**Customer Loyalty Segmentation**
+![Loyalty Segmentation](Telco_Customer_Churn_Analysis/Image_folder/pivot_loyalty_churn.png)
+
+---
+
+## Tableau Dashboards (Visualization Layer)
+
+### Dashboard 1 – Overall Overview
+![Dashboard Overview](Telco_Customer_Churn_Analysis/Image_folder/Tableau_Dashboard/Dashboard_OverallOverview.png)
 
 ### Dashboard 2 – Customer Behaviour
-![Customer Behaviour Dashboard](image_folder/Tableau_Dashboard/Dashboard_CustomerBehaviour.png)
+![Customer Behaviour Dashboard](Telco_Customer_Churn_Analysis/Image_folder/Tableau_Dashboard/Dashboard_CustomerBehaviour.png)
+
 
