@@ -41,20 +41,20 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, stratif
 ---
 
 ## Model Explainability (SHAP)
-![SHAP Result](images/SHAP_Result.png)
+![SHAP Result](image_folder/SHAP_Result.png)
 
 ## Exploratory Data Analysis
-![Pairplot](images/pairplot_relationships.png)
+![Pairplot](image_folder/pairplot_relationships.png)
 
 ## Business Analysis (Excel)
-![Churn by Contract Type](images/pivot_contract_churn.png)
-![Churn by Payment Method](images/pivot_payment_churn.png)
-![Loyalty Segmentation](images/pivot_loyalty_churn.png)
+![Churn by Contract Type](image_folder/pivot_contract_churn.png)
+![Churn by Payment Method](image_folder/pivot_payment_churn.png)
+![Loyalty Segmentation](image_folder/pivot_loyalty_churn.png)
 
 ## Tableau Dashboards
 ### Dashboard 1 – Overview
-![Dashboard Overview](images/tableau/Dashboard_OverallOverview.png)
+![Dashboard Overview](image_folder/Tableau_Dashboard/Dashboard_OverallOverview.png)
 
 ### Dashboard 2 – Customer Behaviour
-![Customer Behaviour Dashboard](images/tableau/Dashboard_CustomerBehaviour.png)
+![Customer Behaviour Dashboard](image_folder/Tableau_Dashboard/Dashboard_CustomerBehaviour.png)
 
